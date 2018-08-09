@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASATest", "ASATest\ASATest.csproj", "{9A4C341B-D62D-4DCD-9CBB-847E5EF8D561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asa.BackDB", "Asa.BackDB\Asa.BackDB.csproj", "{70B0169B-4221-462F-80C8-E762A8188C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asa.Common", "Asa.Common\Asa.Common.csproj", "{13F5B061-1F71-48A2-98EB-A58BF11754F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4C341B-D62D-4DCD-9CBB-847E5EF8D561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4C341B-D62D-4DCD-9CBB-847E5EF8D561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4C341B-D62D-4DCD-9CBB-847E5EF8D561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4C341B-D62D-4DCD-9CBB-847E5EF8D561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B0169B-4221-462F-80C8-E762A8188C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B0169B-4221-462F-80C8-E762A8188C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B0169B-4221-462F-80C8-E762A8188C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B0169B-4221-462F-80C8-E762A8188C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F5B061-1F71-48A2-98EB-A58BF11754F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F5B061-1F71-48A2-98EB-A58BF11754F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F5B061-1F71-48A2-98EB-A58BF11754F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F5B061-1F71-48A2-98EB-A58BF11754F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3166CF91-B8EC-414D-A528-5456DA27E3D6}
+	EndGlobalSection
+EndGlobal
