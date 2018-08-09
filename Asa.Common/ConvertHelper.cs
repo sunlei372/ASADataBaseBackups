@@ -12,7 +12,7 @@ namespace Asa.Common
    public static class ConvertHelper
     {
         /// <summary>
-        /// 取第一个指定字符串之后的字符串
+        /// 取第一个指定字符串之后的字符串11
         /// </summary>
         /// <param name=""></param>
         /// <param name="obj"></param>
